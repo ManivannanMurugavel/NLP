@@ -1,0 +1,7 @@
+[
+    {"text": "What is my order status.", "label": "Orderstatus"},
+    {"text": "What is my latest order status!", "label": "Orderstatus"},
+    {"text": "My current order status", "label": "Orderstatus"},
+    {"text": "What is the price of polo", "label": "Productprice"},
+    {"text": "What is the price of jegging", "label": "Productprice"}
+]
